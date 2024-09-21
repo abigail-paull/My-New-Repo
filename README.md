@@ -1,6 +1,6 @@
 # GIT AND GITHUB
 
-learning git and github at cybite academy
+learning git and github at cybite academy.
 <br>
 <br>
 <br>
